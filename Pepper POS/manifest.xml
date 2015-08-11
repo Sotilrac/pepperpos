@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="pepperpos-84d307" version="0.0.0">
+ <names>
+  <name lang="en_US">Pepper POS</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
+   <nature>interactive</nature>
+   <triggerSentences>
+    <sentence lang="en_US">piece of sale</sentence>
+    <sentence lang="en_US">point of sale</sentence>
+    <sentence lang="en_US">point of shit</sentence>
+    <sentence lang="en_US">piece of shit</sentence>
+   </triggerSentences>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
